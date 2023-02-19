@@ -10,7 +10,7 @@ I'm from Canary Islands and I love to play all kind of games but especially figh
 I'm a technology enthusiast with a passion for video games and computer systems. 
 While I enjoy working with technology, my true passion lies in video editing and graphic design.
 
-I am currently studying Network and System Administration and look forward to gaining more experience in the field.
+I am currently studying IT Systems Administration and look forward to gaining more experience in the field. I'm also very interested in cybersecurity.
 
 I created this profile to upload what I do in class or anything else.
 
