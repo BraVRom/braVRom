@@ -3,7 +3,7 @@
 
 ➤⠀A⠀B⠀O⠀U⠀T
 </br>
-My name is Brandon, and im 26yo. 
+My name is Brandon, and Im 26yo. 
 
 I'm from Canary Islands and I love to play all kind of games but especially fightings, platforms and RPG.
 
