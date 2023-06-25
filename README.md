@@ -4,17 +4,17 @@
 ➤⠀A⠀B⠀O⠀U⠀T
 </br>
 
+My name is Brandon and I'm 26 years old.
 
-My name is Brandon, and I'm 26 years old.
+I'm from the Canary Islands and I love to play all kind of games, but specially fighting games, platformers and RPG. I've always been passionate about the homebrew scene on consoles and modding them. I started to get interested in the Psp and Wii when I was very young.
 
-I'm from the Canary Islands and I love playing all kinds of games, but especially fighting games, platformers, and RPGs.
+I love computers and I think it's the field I'm best at. Although I consider that video editing is not far behind me either.
 
-I'm a technology enthusiast with a passion for video games and computer systems. While I enjoy working with technology, my true passion lies in video editing and graphic design.
+I am a technology enthusiast and am passionate about video games and computer systems. I love to tinker.
 
-Currently, I'm studying IT Systems Administration and looking forward to gaining more experience in the field. I'm also very interested in cybersecurity.
+I am currently a network systems administrator. I am looking forward to gaining more experience in this field. I will soon start studying cybersecurity.
 
-I created this profile to upload my work from class or anything else I do.
-
+I created this profile to upload my classwork or anything else I do in my free time. I'm not much of a programmer, but feel free to check it out.
 
 
 <h3 align="left">Languages and Tools:</h3>
