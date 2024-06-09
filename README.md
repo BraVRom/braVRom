@@ -4,7 +4,7 @@
 ➤⠀A⠀B⠀O⠀U⠀T
 </br>
 
-I'm a 26 years guy. IT Sysadmin and Cybersecurity specialist. Originally from the Canary Islands, I have an innate passion for computing and video games, especially fighting games, platformers and RPGs since I was very young, I was fascinated by the homebrew scene and console modding, starting with the PSP and Wii.
+I'm 27 yo. IT Sysadmin and Cybersecurity specialist. Originally from the Canary Islands, I have an innate passion for computing and video games, especially fighting games, platformers and RPGs since I was very young, I was fascinated by the homebrew scene and console modding, starting with the PSP and Wii.
 
 Throughout my life, I have cultivated a deep interest in computer science, the field in which I consider myself most proficient. In addition, I have developed significant skills in video editing and graphic design, using tools such as the Adobe family and Vegas Pro.
 
